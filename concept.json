@@ -1,0 +1,11 @@
+{
+  "slug": "txv1-golf",
+  "name": "TXv1 Golf",
+  "kind": "tooling",
+  "description": "Compete to encode useful payloads in fewer bytes with reproducible scores.",
+  "chain": "Solana",
+  "transactionVersion": 1,
+  "maxTransactionBytes": 4096,
+  "legacyTransactionBytes": 1232,
+  "status": "functional-prototype"
+}
