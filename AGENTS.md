@@ -8,7 +8,7 @@ Compete to encode useful payloads in fewer bytes with reproducible scores.
 
 - Source: https://github.com/nirholas/txv1-golf
 - Primary language: HTML
-- License: Other (see the LICENSE file)
+- License: MIT (see the LICENSE file)
 
 ## Repository layout
 
